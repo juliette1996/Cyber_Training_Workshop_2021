@@ -7,6 +7,9 @@ date: June 15, 2021, 11:00 am - 1:00 pm EDT
 autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="900" width="800" 
 style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+[QMFlows.pdf](https://github.com/juliette1996/Cyber_Training_Workshop_2021/files/6661411/QMFlows.pdf)
+
+
 # Tutorial
 <a name="toc"></a>
 
